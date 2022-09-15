@@ -4,6 +4,9 @@ body {
     width: 600px;
     background-image: url("freecodecamp.jpeg.jpg");
     color: azure;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 h1{
@@ -15,8 +18,18 @@ h1{
 .main{
 
 }
+#submit{
+    text-align: center;
+    width: 90%;
+    background-color: rgb(25, 148, 62);
+}
+
 .div1{
     text-align: center;
+  }
+
+  .div-input{
+    
   }
 
 li{
