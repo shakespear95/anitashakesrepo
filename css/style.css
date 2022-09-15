@@ -34,6 +34,13 @@ h1{
 
 li{
     display: inline-block;
-
+    width: 100%;
 }
 
+#your-name {
+    width: 90%;
+}
+
+.select-bar {
+    width: 90%;
+}
