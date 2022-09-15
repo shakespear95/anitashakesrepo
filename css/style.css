@@ -1,0 +1,26 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    width: 600px;
+    background-image: url("freecodecamp.jpeg.jpg");
+    color: azure;
+
+}
+h1{
+    text-align: center;
+}
+.form{
+    background-color: rgb(141, 141, 163);
+}
+.main{
+
+}
+.div1{
+    text-align: center;
+  }
+
+li{
+    display: inline-block;
+
+}
+
